@@ -8,6 +8,7 @@ Turned OFF DcBtc (mV) - Triggering Direct X Errors
 
 Unchecked Overdrive Features (Turning OFF Tuning via AMD Software)
 
+AFMF Stable
 
 How to:
 
