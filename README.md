@@ -6,7 +6,7 @@ Dynamic Power Usage (Custom Curve Settings) - Complete Rebuild
 Turned OFF DcBtc (mV) - Triggering Direct X Errors
 
 
-Unchecked Overdrive Features (Turning OFF Tuning Via AMD Software)
+Unchecked Overdrive Features (Turning OFF Tuning via AMD Software)
 
 
 How to:
