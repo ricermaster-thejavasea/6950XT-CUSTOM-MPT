@@ -6,6 +6,9 @@ Unchecked Overdrive Features (Turning OFF Tuning Via AMD Software)
 How to:
 
 Download MSI Afterburner, Turn OFF ULPS
+
+
+
 Download More Power Tools, Load Custom MPT, Write, Restart
 
 Enable AMD Super Resolution
