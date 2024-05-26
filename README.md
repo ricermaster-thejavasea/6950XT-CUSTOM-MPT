@@ -18,3 +18,7 @@ Download MSI Afterburner, Turn OFF ULPS
 Download More Power Tools, Load Custom MPT, Write, Restart
 
 Enable AMD Super Resolution
+
+Support my project
+
+https://thejavasea.me/pages/account-upgrade/?referral=https://thejavasea.me/members/amd-ricemaster.214634/
